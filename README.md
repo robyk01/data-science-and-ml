@@ -2,8 +2,6 @@
 
 A comprehensive collection of notes and practical implementations as I learn Data Science, Machine Learning, Statistics, and Probability.
 
-## 📚 What's Inside
-
 ### Theory Notes (`/notes`)
 - **[Statistics](./notes/statistics.md)** - Fundamental statistical concepts and methods
 - **[Probability](./notes/probability.md)** - Probability theory and distributions
