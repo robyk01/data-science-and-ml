@@ -1,9 +1,3 @@
-| Test Name | Key Focus | Strategy |
-| - | - | - |
-| DS Fundamentals | "Math, Stats, Probability" | "Why does this work?" Focus on theory and definitions." |
-| Data Science | "ML Algorithms, Evaluation" | "Which model should I use?" Focus on pros/cons of models." |
-| DS (Engineering) | "SQL, Python, Data Cleaning" | "Can I process this?" Focus on logic and coding syntax." |
-
 ### The Fundamentals Roadmap
 **A. Descriptive Statistics**
 1. Data Types & Central Tendency ✅
@@ -31,14 +25,14 @@
 3. Logistic Regression  ✅
 
 **B. Tree-Based Models**
-1. Decision Trees
-2. Random Forests & Ensemble Learning
-3. Boosting
+1. Decision Trees ✅
+2. Random Forests & Ensemble Learning - ✅
+3. Boosting - ✅
 
 **C. Model Health**
-1. The Bias-Variance Tradeoff
-2. Evaluation Metrics
-3. Cross-Validation & Hyperparameter Tuning
+1. The Bias-Variance Tradeoff ✅
+2. Evaluation Metrics ✅
+3. Cross-Validation & Hyperparameter Tuning ✅
 
 **D. Other**
 1. K-Nearest Neighbours (KNN)
