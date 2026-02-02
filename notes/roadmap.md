@@ -26,9 +26,9 @@
 
 ### Machine Learning Roadmap
 **A. The Linear Models**
-1. Supervised & Unsupervised Learning
-2. Linear Regression & Gradient Descent
-3. Logistic Regression 
+1. Supervised & Unsupervised Learning ✅
+2. Linear Regression & Gradient Descent ✅
+3. Logistic Regression  ✅
 
 **B. Tree-Based Models**
 1. Decision Trees

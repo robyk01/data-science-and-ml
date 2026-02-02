@@ -23,7 +23,7 @@ It's a supervised learning algorithm used to predict a continuous dependent vari
 **Formula**: y = mx + b
 
 ### Loss Function
-The computer uses a loss function to measure how wrong it is. For regression, we usually use MSE (Mean Squared Error).
+The computer uses a loss function to measure how wrong it is. For regression, we usually use **MSE** (Mean Squared Error).
 To know if the line we drew is good or not:
 - It looks at the residuals (the distance between the line and data points)
 - If the dots are far from the line, the loss is high
@@ -34,4 +34,19 @@ To know if the line we drew is good or not:
 ### Gradient Descent
 To find the best line, the computer needs to minimize the MSE. It uses an algorithm called Gradient Descent.
 It's the vector of partial derivatives. We move in the opposite direction to find the minimum error.
+
+
+## Logistic Regression
+It's a supervised learning algorithm used to predict a discrete variable. This is the most popular algorithm for Binary Classification (Eg spam filtering).
+In Linear Regression our line (mx + b) can go to infinity. In Classification, we need a probability between 0 and 1.
+
+To fix this, we pass the mx + b result through a Sigmoid Function:
+σ(z) = 1 / 1 + e^-z
+- If the mx + b is a huge positive number, the Sigmoid turns into 0.99 (99% probability)
+- If it's a huge negative number, it turns into 0.01 (1% probability)
+- If it's exactly 0, it turn into 0.5 (50% probability)
+
+By default, the model uses 0.5 as the cutoff:
+- Prob ≥ 0.5 -> Class 1
+- Prob < 0.5 -> Class 0
 
