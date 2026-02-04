@@ -35,7 +35,7 @@
 3. Cross-Validation & Hyperparameter Tuning ✅
 
 **D. Other**
-1. K-Nearest Neighbours (KNN)
-2. Support Vector Machines (SVM)
-3. K-Means Clustering
-4. PCA (Unsupervised Deep Dive)
+1. K-Nearest Neighbours (KNN) ✅
+2. Support Vector Machines (SVM) ✅
+3. K-Means Clustering ✅
+4. PCA (Unsupervised Deep Dive) ✅
