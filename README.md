@@ -10,3 +10,7 @@ A comprehensive collection of notes and practical implementations as I learn Dat
 
 ### Practical Implementations (`/notebooks`)
 Jupyter notebooks with hands-on implementations of ML algorithms and statistical analysis.
+- **[Linear Regression](./notebooks/linear-regression.ipynb)** - 
+- **[Logistic Regression](./notebooks/logistic-regression.ipynb)** - 
+- **[Decision Trees & Optimizations](./notebooks/linear-regression.ipynb)** - 
+
